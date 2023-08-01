@@ -1,12 +1,12 @@
 
 .container{
-	width:30%;
+	width:25%;
 	margin:0 auto;
 	padding:20px 0;
 	box-shadow:0px 0px 7px #ccc;
-	background-color:#e1e1e1bf;
+	background-color:#f0f0f0;
 	text-align:center;
-	border-radius:10px;
+	border-radius:20px;
 	
 }
 #box{
@@ -24,18 +24,17 @@
 	top:-38%;
 	left:40%;
 	font-size:30px;
-	background-color:#e1e1e1bf;
+	background-color:#f0f0f0;
 	box-shadow:0px 0px 5px #ccc ;
 	padding:14px 16px;
 }
 .msg{
-	font-family: 'Roboto', sans-serif;
-    font-family: 'Source Sans 3', sans-serif;
+    font-family: 'able', sans-serif;
 	color:#656565;
 }
 .msg1{
     font-family: 'Gothic A1', sans-serif;
 	font-size:20px;
-	color:#a5a3a3;
+	color:#665c5c;
 	
 }
